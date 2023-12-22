@@ -2,7 +2,7 @@
 
 name: NewFeature
 description: File a bug report
-title: "[Bug]: "
+title: "[Feature]: "
 labels: ["bug", "triage"]
 assignees: 
  - octocat
