@@ -1,5 +1,3 @@
-```
-
 ---
 
 name: NewBugReport
@@ -69,4 +67,3 @@ body:
          required: true
           
 ---
-```
